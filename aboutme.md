@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The basics
 ---
 I'm Zach Warren, a junior at Vanderbilt University. I am triple majoring in computer science, physics, and mathematics. 
 
