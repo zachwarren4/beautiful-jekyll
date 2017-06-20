@@ -1,5 +1,5 @@
 ---
-layout: github-markdown
+layout: post
 title: "Basic Neural Nets and Analysis"
 date: 2017-06-19
 ---
