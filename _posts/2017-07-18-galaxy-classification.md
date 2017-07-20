@@ -68,7 +68,7 @@ After 90 epochs of training which took around an hour and a half, my results wer
 
 Something I thought would be interesting but turned out to not be at all was trying to find out what an 'average' galaxy looked like based on the dataset. *Drum roll please*:
 
-![avg_galaxy](/img/average_galaxy.jpg/)
+![avg_galaxy](/img/average_galaxy.jpg)
 
 So mostly just ridiculous colors. After flipping through enough of the images, this isn't particularly surprising, there is a lot of color in each image that isn't part of the galaxy itself and all the galaxies have different sizes/rotations. Worth a shot anyway.
 
